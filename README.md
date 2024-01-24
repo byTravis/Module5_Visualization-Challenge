@@ -1,8 +1,7 @@
 # Module5_Visualization-Challenge
 Visualization Challenge - Week 5 - Data Analytics Boot Camp - University of Oregon
 
-
-
+![Header Graphic](images\HeaderGraphic.png)
 
 ## Pymaceuticals Inc. - Background
 You've just joined Pymaceuticals, Inc., a new pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
@@ -21,6 +20,7 @@ This assignment is broken down into the following tasks:
 - Create a line plot and a scatter plot.
 - Calculate correlation and regression.
 - Submit your final analysis.
+
 ---
 
 ## Analysis
