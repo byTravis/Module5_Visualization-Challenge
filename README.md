@@ -12,7 +12,7 @@ Visualization Challenge - Week 5 - Data Analytics Boot Camp - University of Oreg
 ### Drug Regimen Comparison
 Comparing all nine drug treatments, along with placebo, shows that Capomulin and Ramicane had a longer survival rate when compared to the other drugs tested.  The remaining drugs had a similar survival rate as compared to placebo, suggesting that they may be ineffective for treating squamous cell carcinoma (SCC).
 
-![Treatments By Timepoints](images\TreatmentTimepoints.png)
+![Treatments By Timepoints](images/TreatmentTimepoints.png)
 ---
 
 ### Study Balance
